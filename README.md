@@ -1,7 +1,10 @@
 # Análise de Risco de AVC
 
 Este repositório contém o projeto de conclusão de curso em Análise e Desenvolvimento de Sistemas,
-focado em analisar fatores de risco associados à ocorrência de AVC (Acidente Vascular Cerebral).
+focado em analisar fatores de risco associados à ocorrência de AVC (Acidente Vascular Cerebral)
+utilizando os dados do relatório "Stroke Prediction Dataset" disponíveis na plataforma Kaggle. 
+
+Link da base de dados: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## Tecnologias utilizadas
 
