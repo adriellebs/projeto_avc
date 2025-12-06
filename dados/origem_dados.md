@@ -1,4 +1,4 @@
-# Dados de origem
+# Origem dos dados
 
 Os dados utilizados neste projeto foram obtidos a partir do dataset público
 "Stroke Prediction Dataset", disponível no Kaggle:
